@@ -1,0 +1,84 @@
+{
+	"ImportPath": "whispir/email-demo",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/emersion/go-imap",
+			"Rev": "840b16b212bff35b595e708937c6d60861cfab49"
+		},
+		{
+			"ImportPath": "github.com/emersion/go-imap/client",
+			"Rev": "840b16b212bff35b595e708937c6d60861cfab49"
+		},
+		{
+			"ImportPath": "github.com/emersion/go-imap/commands",
+			"Rev": "840b16b212bff35b595e708937c6d60861cfab49"
+		},
+		{
+			"ImportPath": "github.com/emersion/go-imap/responses",
+			"Rev": "840b16b212bff35b595e708937c6d60861cfab49"
+		},
+		{
+			"ImportPath": "github.com/emersion/go-imap/utf7",
+			"Rev": "840b16b212bff35b595e708937c6d60861cfab49"
+		},
+		{
+			"ImportPath": "github.com/emersion/go-message",
+			"Rev": "ffae64e5621990df60624f7bc766890320c38bfd"
+		},
+		{
+			"ImportPath": "github.com/emersion/go-message/charset",
+			"Rev": "ffae64e5621990df60624f7bc766890320c38bfd"
+		},
+		{
+			"ImportPath": "github.com/emersion/go-message/mail",
+			"Rev": "ffae64e5621990df60624f7bc766890320c38bfd"
+		},
+		{
+			"ImportPath": "github.com/emersion/go-sasl",
+			"Rev": "7e096a0a6197b89989e8cc31016daa67c8c62051"
+		},
+		{
+			"ImportPath": "github.com/emersion/go-textwrapper",
+			"Rev": "d0e65e56babe3f687ff94c1d764ca0e6aa7723ee"
+		},
+		{
+			"ImportPath": "golang.org/x/text/encoding",
+			"Rev": "19e51611da83d6be54ddafce4a4af510cb3e9ea4"
+		},
+		{
+			"ImportPath": "golang.org/x/text/encoding/charmap",
+			"Rev": "19e51611da83d6be54ddafce4a4af510cb3e9ea4"
+		},
+		{
+			"ImportPath": "golang.org/x/text/encoding/internal",
+			"Rev": "19e51611da83d6be54ddafce4a4af510cb3e9ea4"
+		},
+		{
+			"ImportPath": "golang.org/x/text/encoding/internal/identifier",
+			"Rev": "19e51611da83d6be54ddafce4a4af510cb3e9ea4"
+		},
+		{
+			"ImportPath": "golang.org/x/text/encoding/japanese",
+			"Rev": "19e51611da83d6be54ddafce4a4af510cb3e9ea4"
+		},
+		{
+			"ImportPath": "golang.org/x/text/encoding/simplifiedchinese",
+			"Rev": "19e51611da83d6be54ddafce4a4af510cb3e9ea4"
+		},
+		{
+			"ImportPath": "golang.org/x/text/encoding/traditionalchinese",
+			"Rev": "19e51611da83d6be54ddafce4a4af510cb3e9ea4"
+		},
+		{
+			"ImportPath": "golang.org/x/text/transform",
+			"Rev": "19e51611da83d6be54ddafce4a4af510cb3e9ea4"
+		},
+		{
+			"ImportPath": "gopkg.in/gomail.v2",
+			"Comment": "2.0.0-23-g81ebce5",
+			"Rev": "81ebce5c23dfd25c6c67194b37d3dd3f338c98b1"
+		}
+	]
+}
